@@ -24,3 +24,6 @@ The aim is to demonstrate pushing changes to a GitHub repository, covering setup
 - `git push`
 - `git pull`
 
+
+### Branching Update
+This section was added in the experiment-branch.
